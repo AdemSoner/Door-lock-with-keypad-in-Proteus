@@ -1,5 +1,5 @@
 # Door-lock-with-keypad-in-Proteus<br>
-##TR
+## TR
 Adem Soner  Proje konusu="Şifreli kapı kilit sistemi(Değiştirilebilir şifre, acil durum sessiz alarm kodu)"<br>
 <br>
 Projede 2 uygulama kullandım.<br>
@@ -14,7 +14,7 @@ kodlar hakkında bilgi yeri yaptım. <br>
 Proteus dosyasının adı = "sifrekilit.pdsprj"<br>
 C dosyasının compilerde açılımı için = "Sifrekilit.ccspjt" <br>
 <br>
-##ENG<br>
+## ENG<br>
 Proje konusu="Şifreli kapı kilit sistemi(Değiştirilebilir şifre, acil durum sessiz alarm kodu)"<br>
 <br>
 Projede 2 uygulama kullandım.<br>
