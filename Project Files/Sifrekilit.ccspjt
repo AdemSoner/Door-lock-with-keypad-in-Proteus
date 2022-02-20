@@ -1,0 +1,22 @@
+[PROJECT]
+Target=Sifrekilit.hex
+Processor_Text=PIC16F877A
+CCSVerions=5.015
+Compiler=PCM
+CCSVersion=5.015
+[Target Data]
+FileList=Sifrekilit.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\
+[C:\Users\BLoJack\Desktop\PC\Denetleyici-Proje\Sifrekilit]
+Type=4
+[mru-list]
+1=Sifrekilit.c
+[Opened Files]
+1=Sifrekilit.c
+2=
+[Sifrekilit.c]
+Type=4
+[Units]
+Count=1
+1=Sifrekilit (main)
